@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on `Network Automation`
-- 🌱 I’m currently learning `many things` `AWS Cloud` `Solutions Architectures`
+- 🌱 I’m currently learning `many things` :) 
 - 👯 I’m looking to collaborate on network automation solutions
 - 💬 Ask me about `containers` `k8s` `Network Automation` `DevNet` `Ansible` `Linux`  
 - 📫 How to reach me: msg me
